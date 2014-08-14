@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+<users>
+        <user>
+                <login>John</login>
+                <password>Johnny</password>
+                <nRole>5</nRole>
+                <firstname>John</firstname>
+                <lastname>Doe</lastname>
+                <address1>123 main st.</address1>
+                <address2></address2>
+                <city>beverly hills</city>
+                <nZip>90210</nZip>
+                <nState>13</nState>
+                <dob>1912-01-01</dob>
+                <nSS>123456789</nSS>
+                <nTelephone>901-321-4324</nTelephone>
+                <nMajor>1</nMajor>
+        </user>
+        <user>
+                <login>John2</login>
+                <password>Johnny2</password>
+                <nRole>5</nRole>
+                <firstname>John2</firstname>
+                <lastname>Doe2</lastname>
+                <address1>1234 main st.</address1>
+                <address2></address2>
+                <city>beverly hills</city>
+                <nZip>90210</nZip>
+                <nState>13</nState>
+                <dob>1912-01-01</dob>
+                <nSS>123456789</nSS>
+                <nTelephone>901-321-4324</nTelephone>
+                <nMajor>1</nMajor>
+        </user>
+</users>
+<subjects>
+        <subject>
+                <name>Electrical and Computer Engineering</name>
+                <college>Engineering</college>
+        </subject>
+</subjects>
+<courses>
+        <course>
+                <name>English 160</name>
+                <nSubject>2</nSubject>
+                <description>Intro to writing</description>
+                <nCreditHours>3</nCreditHours>
+        </course>
+</courses>
+</data>
