@@ -1,10 +1,11 @@
 StudentRegistrationApp
 ======================
 
-Registration App Group Project at UIC coded in Qt
+Registration App- Group Software Engineering Project Programmed in Qt
 University of Illinois at Chicago 
 
-Creators:
+Authors
+========
 
 Nestor S.
 Nazari S.
