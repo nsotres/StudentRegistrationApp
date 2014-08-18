@@ -1,7 +1,7 @@
 StudentRegistrationApp
 ======================
 
-Registration App- Group Software Engineering Project Programmed in Qt
+Registration App- Group Software Engineering Project Programmed in Qt<br>
 University of Illinois at Chicago 
 
 Authors
